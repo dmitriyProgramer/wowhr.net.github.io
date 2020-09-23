@@ -1,3 +1,3 @@
 ﻿$(document).ready(function(e) {
-	console.log('test')
+	//console.log('test')
 });
